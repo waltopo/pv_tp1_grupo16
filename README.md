@@ -6,5 +6,5 @@ desarrolo de tp1
 1. Coronel, Walter Eduardo - usuario: waltopo
 2. Soto, Guillermo Javier - usuario: Javiersot0
 3. Lobo, Alexander Emanuel - usuario: Loboo09
-4. Mamani, Erick Rolando - usuario: MamaniErick
-5.
+4.
+5.Ortiz, Lucas Maximiliano - usuario: lucasortiz512
