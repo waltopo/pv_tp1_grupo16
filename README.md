@@ -7,4 +7,4 @@ desarrolo de tp1
 2. Soto, Guillermo Javier - usuario: Javiersot0
 3. Lobo, Alexander Emanuel - usuario: Loboo09
 4.
-5.Ortiz Lucas Maximiliano - usuario: lucasortiz512
+5.Ortiz, Lucas Maximiliano - usuario: lucasortiz512
