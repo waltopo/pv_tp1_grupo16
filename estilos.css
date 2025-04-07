@@ -58,7 +58,8 @@ button:hover {
   display: none;
 }
 estilos para el nav
-nav ul {
+nav ul{
+background-color: #757575;
 width: 100%;
 list-style-type:none ;
 text-align: center;
@@ -68,8 +69,12 @@ display: inline-flex;
 }
 nav a{
   text-decoration: none;
+  color: #0056b3;
   padding: 10px;
   width: 150px;
+}
+nav li:hover{
+  background-color: black;
 }
 .bellas-Artes{
 width: 200px;
@@ -82,4 +87,22 @@ object-fit: cover;
 height: 200px;
 border-radius: 50%;
 object-fit: cover;
+}
+.section-museo{
+  width: 70%;
+  float: left;
+  font-family: Arial, sans-serif;
+  margin: 4%;
+  height: 400px;
+}
+.aside-museo{
+  width: 20%;
+  height: 20px;
+  float: left;
+  margin-top: 25px;
+  
+}
+aside a{
+  color: chocolate;
+
 }
