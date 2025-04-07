@@ -48,4 +48,29 @@ button:hover {
   font-weight: bold;
   display: none;
 }
-
+estilos para el nav
+nav ul {
+width: 100%;
+list-style-type:none ;
+text-align: center;
+}
+nav li{
+display: inline-flex;
+}
+nav a{
+  text-decoration: none;
+  padding: 10px;
+  width: 150px;
+}
+.bellas-Artes{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+object-fit: cover;
+}
+.contemporaneo{
+  width: 200px;
+height: 200px;
+border-radius: 50%;
+object-fit: cover;
+}
