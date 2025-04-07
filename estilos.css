@@ -1,5 +1,49 @@
+nav ul{
+    text-align: center;
+    padding: 20px;
+}
+nav li{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    width: 150px;
+}
+.container{
+    
+}
+.article{
+    
+    
+}
+.section{
+    
+}
+.aside{
+    width: 20%;
+    margin-top: 60px;
+}
+.aside a{
+    display: block;
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+.bellasArtes{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
 
-aside{
+}
+.contemporaneo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.aside{
     width: 30%;
     float: left;
    
