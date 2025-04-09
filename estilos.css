@@ -57,6 +57,99 @@ button:hover {
   font-weight: bold;
   display: none;
 }
+<<<<<<< HEAD
+
+/* Estilos para index.html*/
+
+/* Estilo general del cuerpo */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+/* Header */
+.header-cultura {
+  background-color: #005f73;
+  padding: 20px;
+  text-align: center;
+}
+
+.titulo-principal {
+  color: white;
+  font-size: 2.5em;
+  margin: 0;
+}
+
+/* Navegación */
+.nav-cultura {
+  background-color: #0a9396;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.nav-cultura ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-cultura li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.nav-cultura a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.nav-cultura a:hover {
+  text-decoration: underline;
+}
+
+/* Sección principal */
+.seccion-cultura {
+  padding: 40px;
+  max-width: 1000px;
+  margin: auto;
+  background-color: white;
+}
+
+.titulo-seccion {
+  font-size: 2em;
+  color: #001219;
+  margin-bottom: 20px;
+}
+
+.descripcion-cultura {
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+/* Bloques de artículos */
+.bloque-cultura {
+  margin-bottom: 40px;
+}
+
+.bloque-cultura h2 {
+  color: #005f73;
+}
+
+.bloque-cultura p {
+  line-height: 1.6;
+  color: #333;
+}
+
+.bloque-cultura img {
+  display: block;
+  margin-top: 15px;
+}
+
+=======
 estilos para el nav
 nav ul{
 background-color: #757575;
@@ -88,6 +181,7 @@ height: 200px;
 border-radius: 50%;
 object-fit: cover;
 }
+<<<<<<< HEAD
 .section-museo{
   width: 70%;
   float: left;
@@ -106,3 +200,41 @@ aside a{
   color: chocolate;
 
 }
+=======
+>>>>>>> a355d3e5d9e2c9e63b3e2138dfaaccfc2e415262
+
+/* Estilo para el cuadro de caracteristicas */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.cuadro {
+  background-color: #ffffff;
+  border: 2px solid #008CBA;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #008CBA;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 16px;
+}
+>>>>>>> 973d68510b18415e27ce896cc80cf7217780b07c
