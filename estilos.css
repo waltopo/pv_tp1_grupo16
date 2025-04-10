@@ -16,7 +16,10 @@ header {
   background-position: center;
   padding: 50px 0;
 }
-
+.bandera{
+  width: 250px;
+  height: 200px;
+}
 h1 {
   text-align: center;
   color: #333;
@@ -136,7 +139,44 @@ main {
   border-radius: 10px;
   height: fit-content;
 }
+.bellas-Artes{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  }
+  .contemporaneo{
+    width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  }
+  <<<<<<< HEAD
+  .contenido{
+    display: flex;
+    margin: 60px;
+  }
+  .articulo{
+    width: 80%;
+    margin: 60px;
+  }
+  .section-museo{
+  display: flex;
+  align-items: center;
+  padding: 40px;
+   
+  }
+  .aside-museo{
+   width: 20%;
+   float: right;
+   margin-top: 20px;
+  }
+  aside a{
+  color: chocolate;
+  }
 
+
+<<<<<<< HEAD
 .efemerides,
 .sabias-que {
   margin-bottom: 30px;
@@ -154,3 +194,43 @@ main {
   padding: 15px;
   margin-top: 20px;
 }
+=======
+=======
+>>>>>>> a355d3e5d9e2c9e63b3e2138dfaaccfc2e415262
+
+/* Estilo para el cuadro de caracteristicas */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.cuadro {
+  background-color: #ffffff;
+  border: 2px solid #008CBA;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #008CBA;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 16px;
+}
+>>>>>>> 973d68510b18415e27ce896cc80cf7217780b07c
+>>>>>>> e82b8b840ac6e8148eff49cbca9705acb000de2d
