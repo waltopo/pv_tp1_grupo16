@@ -184,16 +184,17 @@ object-fit: cover;
 <<<<<<< HEAD
 .section-museo{
   width: 70%;
-  float: left;
+  float: right;
   font-family: Arial, sans-serif;
   margin: 4%;
-  height: 400px;
+  height: 40px;
 }
 .aside-museo{
   width: 20%;
-  height: 20px;
-  float: left;
-  margin-top: 25px;
+  height: 25px;
+  float: right;
+  margin-top: 22px;
+
   
 }
 aside a{
