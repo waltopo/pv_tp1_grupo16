@@ -59,93 +59,98 @@ button:hover {
 }
 <<<<<<< HEAD
 
-/* Estilos para index.html*/
-
+/* ESTILOS PARA INDEX.HTML */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
-  background-color: #f9f9f9;
 }
 
-/* Header */
-.header-cultura {
-  background-color: #005f73;
-  padding: 20px;
+.encabezado {
+  background-color: #aa1d1d;
+  color: black;
   text-align: center;
+  padding: 20px;
 }
 
 .titulo-principal {
-  color: white;
-  font-size: 2.5em;
   margin: 0;
 }
 
-/* Navegación */
-.nav-cultura {
-  background-color: #0a9396;
+.navegacion {
+  background-color: #e0e0e0;
   padding: 10px 0;
   text-align: center;
 }
 
-.nav-cultura ul {
+.navegacion ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.nav-cultura li {
+.navegacion li {
   display: inline;
   margin: 0 15px;
 }
 
-.nav-cultura a {
+.navegacion a {
   text-decoration: none;
-  color: white;
-  font-weight: bold;
+  color: #741f1f;
 }
 
-.nav-cultura a:hover {
-  text-decoration: underline;
+main {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  gap: 20px;
 }
 
-/* Sección principal */
 .seccion-cultura {
-  padding: 40px;
-  max-width: 1000px;
-  margin: auto;
+  flex: 3;
   background-color: white;
+  padding: 20px;
+  border-radius: 10px;
 }
 
-.titulo-seccion {
-  font-size: 2em;
-  color: #001219;
-  margin-bottom: 20px;
+.titulo-section {
+  margin-top: 0;
 }
 
-.descripcion-cultura {
-  line-height: 1.6;
-  color: #333;
-  margin-bottom: 40px;
-}
-
-/* Bloques de artículos */
 .bloque-cultura {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
-.bloque-cultura h2 {
-  color: #005f73;
+.bloque-cultura article h2 {
+  color: #aa1d1d;
 }
 
-.bloque-cultura p {
-  line-height: 1.6;
-  color: #333;
+.bloque-cultura article img {
+  margin-top: 10px;
+  border-radius: 8px;
 }
 
-.bloque-cultura img {
-  display: block;
-  margin-top: 15px;
+.aside-principal {
+  flex: 1;
+  background-color: #fff7e6;
+  padding: 20px;
+  border-radius: 10px;
+  height: fit-content;
 }
 
-=======
+.efemerides,
+.sabias-que {
+  margin-bottom: 30px;
+}
+
+.efemerides h2,
+.sabias-que h2 {
+  color: #aa1d1d;
+}
+
+.footer-pagina {
+  background-color: #aa1d1d;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
