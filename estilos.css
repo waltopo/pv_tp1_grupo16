@@ -7,6 +7,9 @@ body {
   border-radius: 10px;
   background-color: #f9f9f9;
 }
+.cuerpo{
+  background: rgb(102, 95, 95);
+}
 
 header {
   text-align: center;
@@ -300,6 +303,7 @@ aside h3 {
 
 aside p {
   margin-bottom: 5px;
+  background: silver;
 }
 
 aside a {
@@ -309,7 +313,7 @@ aside a {
 }
 
 aside a:hover {
-  color: #741f1f;
+  color: #1100ff;
 }
 
 /* PIE */
